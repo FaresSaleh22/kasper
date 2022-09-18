@@ -879,7 +879,7 @@ padding: 20px 35px;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     position: relative;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     color: white;
 }
@@ -1034,7 +1034,7 @@ line-height: 2;
 .footer {
     padding-top: calc(var(--section-padding) / 2 );
     padding-bottom: calc(var(--section-padding) / 2 );
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     position: relative;
     color: white;
